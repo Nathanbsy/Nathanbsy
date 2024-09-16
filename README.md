@@ -13,7 +13,7 @@
 
 ### I like:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Elixir](https://img.shields.io/badge/java-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 
 ### Other Knowledge:
