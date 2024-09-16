@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanbsy&layout=compact&langs_count=7&theme=dracula&hide=css,html" alt="Nathan Top Languages" /> 
-  <img width="35%" height="250px" src="https://github-profile-trophy.vercel.app/?username=nathanbsy&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img width="35%" height="200px" src="https://github-profile-trophy.vercel.app/?username=nathanbsy&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 ### Tools:
@@ -13,7 +13,7 @@
 
 ### I like:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Elixir](https://img.shields.io/badge/java-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 
 ### Other Knowledge:
