@@ -8,7 +8,7 @@
 
 <div align="center">  
   <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanbsy&layout=compact&langs_count=7&theme=dracula&hide=css,html" alt="Nathan Top Languages" /> 
-  <img width="35%" height="250px" src="https://github-profile-trophy.vercel.app/?username=Nathanbsy&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img width="35%" height="200px" src="https://github-profile-trophy.vercel.app/?username=Nathanbsy&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
