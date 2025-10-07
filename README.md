@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Nathan+Nascimento+;I'm+20+years+old;I'm+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, Java, React**
 
 - 📫 How to reach me **nathanbsy.dev@gmail.com**
 
